@@ -8,3 +8,4 @@ VSCode中配置ESlint非常简单，只要安装`ESLint`插件即可。VSCode默
 
 ## 配置
 选择`Code -> Preferences -> User Settings`，编写配置项`"eslint.enable": true`
+ i will leave their work in situ to prove there was errors in reporting of some sort. frankly this year i had sustained a brain injury a few months prior.  
